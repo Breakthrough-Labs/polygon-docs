@@ -12,6 +12,13 @@
   {% endif %}
 {% endblock %}
 
+{% block styles %}
+<!-- Deprioritizing the docsbot stylesheet to avoid conflicts with the theme -->
+<link rel="stylesheet" href="/_site_essentials/stylesheets/docsbot.css" />
+
+{{ super() }}
+{% endblock %}
+
 {% block scripts %}
   {{ super() }}
   

@@ -620,7 +620,6 @@ extra:
 
 extra_css:
   - _site_essentials/stylesheets/extra.css
-  - _site_essentials/stylesheets/docsbot.css
   - https://fonts.googleapis.com/icon?family=Material+Icons
   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css
 
