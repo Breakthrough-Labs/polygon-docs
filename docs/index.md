@@ -15,7 +15,7 @@ hide:
 }
 
 </style>
-
+<div id="__cookbook"></div>
 <div class="main">
 	<header class="section">
 		<div class="container-global">
