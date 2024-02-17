@@ -1,5 +1,6 @@
 {
   "installCommand": "pip3 install virtualenv && virtualenv venv; source venv/bin/activate && pip3 install -r requirements.txt",
   "buildCommand": "source venv/bin/activate && mkdocs build",
-  "outputDirectory": "site"
+  "outputDirectory": "site",
+  "trailingSlash": true
 }
