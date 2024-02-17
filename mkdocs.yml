@@ -623,7 +623,6 @@ extra_css:
   - _site_essentials/stylesheets/docsbot.css
   - https://fonts.googleapis.com/icon?family=Material+Icons
   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.css
-  - http://localhost:4000/style.css
 
 markdown_extensions:
   - toc:
@@ -681,8 +680,8 @@ validation:
 
 extra_javascript:
   - _site_essentials/js/mathjax.js
+  - _site_essentials/js/docsbot.umd.cjs
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/katex.min.js  
   - https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.16.7/contrib/auto-render.min.js
-  - _site_essentials/js/docsbot.umd.cjs
