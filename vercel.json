@@ -5,9 +5,9 @@
   "trailingSlash": true,
   "rewrites": [{
     "source": "/docsbot/docsbot.css",
-    "destination": "https://docsbot-standalone.vercel.app/docsbot.css"
+    "destination": "https://cookbook-docsbot-staging.vercel.app/docsbot.css"
   }, {
     "source": "/docsbot/docsbot.min.js",
-    "destination": "https://docsbot-standalone.vercel.app/docsbot.min.js"
+    "destination": "https://cookbook-docsbot-staging.vercel.app/docsbot.min.js"
   }]
 }
