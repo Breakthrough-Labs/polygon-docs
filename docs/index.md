@@ -273,4 +273,3 @@ hide:
 		</div>
 	</section>
 </div>
-<div id="__cookbook" data-api-key="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2NWQxNWI0YTUyNTcyZmMzMDI2ODg1OTgiLCJpYXQiOjE3MDgyMTkyMTAsImV4cCI6MjAyMzc5NTIxMH0.kjO3jaiDucVtCmF-665MVeRBd-VBm5MYYvwrzoIfVyQ"></div>
